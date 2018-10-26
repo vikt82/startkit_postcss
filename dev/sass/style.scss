@@ -1,0 +1,25 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+}
+body {
+    font-size: 1em;
+    line-height: 1.4;
+    h1 {
+        font-size: 36px;
+        line-height: 1.6;   
+    }
+    p {
+        font-size: 18px;
+        line-height: 1.6;
+        padding: 0;
+        margin: 0;
+        width: 300px;
+    }
+    a {
+        display: block;
+        text-decoration-line: line-through;
+        font-size: 18px;
+    }
+}
